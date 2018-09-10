@@ -1,0 +1,12 @@
+.row1 {
+text-align: center;
+background-image: url(../img/landing.jpg);
+margin: 0px;
+}
+
+
+.landtxt {
+  margin: 250px;
+  margin-left: 300px;
+  color: #FFFFFF;
+}
