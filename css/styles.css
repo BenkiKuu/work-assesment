@@ -1,12 +1,38 @@
-.row1 {
-text-align: center;
-background-image: url(../img/landing.jpg);
-margin: 0px;
-}
-
-
 .landtxt {
   margin: 250px;
   margin-left: 300px;
   color: #FFFFFF;
+  height: 100px;
+}
+
+.mouse1 {
+  margin-top: 300px;
+  margin-left: 150px;
+}
+
+.row1 {
+  text-align: center;
+  background-image: url(../img/landing.jpg);
+  height: 775px;
+  background-size: cover;
+  margin: 0px;
+}
+
+.row2 {
+  background-color: #c8b793;
+  text-align: center;
+  height: 100px;
+}
+
+.form1 {
+margin-top: 45px;
+}
+
+.button {
+
+  background-color: #800000;
+  margin: 17px;
+  float: right;
+  /* margin-right: 70px; */
+  padding: 10px;
 }
