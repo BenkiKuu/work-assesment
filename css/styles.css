@@ -18,6 +18,22 @@
   margin: 0px;
 }
 
+.row5 {
+  text-align: center;
+  background-image: url(../img/about.jpg);
+  background-size: cover;
+  height: 400px;
+  margin-top: 150px;
+  margin-bottom: 0px;
+}
+
+.aboutxt {
+  margin: 250px;
+  margin-left: 300px;
+  color: #FFFFFF;
+  height: 100px;
+}
+
 .row2 {
   background-color: #c8b793;
   text-align: center;
@@ -91,4 +107,39 @@ margin-top: 50px;
 .touch {
   margin: 0px;
   padding: 0px;
+}
+
+.row6 {
+  margin-top: 0px;
+  text-align: center;
+  background-color: grey;
+  margin-right: 100px;
+  height: 75px;
+}
+
+.twt {
+  height: 40px;
+  width: 60px;
+  /* margin-right: 20px; */
+  /* margin-left: 20px; */
+}
+
+.col6 {
+  margin-top: 20px;
+}
+.fot {
+  margin-top: 100px;
+}
+.card:hover  {
+  border-color: #DAA520;
+}
+
+h3.abt1 {
+  border-style: solid;
+  border-color: #DAA520;
+}
+
+.aboutxt {
+  margin-top: 60px;
+  padding: 50px;
 }
