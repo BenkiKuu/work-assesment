@@ -36,3 +36,59 @@ margin-top: 45px;
   /* margin-right: 70px; */
   padding: 10px;
 }
+
+.hr {
+  background-color: #D3D3D3;
+  height: 2px;
+  margin-top: 10px;
+}
+
+.row3 {
+margin-top: 50px;
+}
+.row4{
+  height: 200;
+}
+
+/* .card1 {
+  background-color: #E6E6E6;
+} */
+
+.row4-1 {
+  height: 250px;
+  width: 150px;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+.row4-2 {
+  height: 200px;
+  width: 100px;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+
+}
+
+.row4-3 {
+  height: 250px;
+  width: 150px;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.tp {
+  float: left;
+}
+
+.tp1 {
+  float: right;
+}
+
+.touch {
+  margin: 0px;
+  padding: 0px;
+}
